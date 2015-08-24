@@ -2,7 +2,6 @@
 <script type="text/javascript" src="//api.docodoco.jp/v4/docodoco?key=*******" charset="utf-8"></script>
 <script type="text/javascript" src="ディレクトリ名/docodoco_ua_plugin.js" charset="utf-8"></script>
 
-
 <!--Google Analytics-->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
